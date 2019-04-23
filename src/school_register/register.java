@@ -2,33 +2,22 @@
 
 package school_register;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
-
+import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableCellRenderer;
-import javax.swing.table.TableColumnModel;
-
 import net.proteanit.sql.DbUtils;
-
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.sql. *;
+import java.sql.*;
 import java.text.DecimalFormat;
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
-
-import javax.swing. *;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 import java.math.RoundingMode;
 import java.awt.Color;
-import java.awt.Component;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-import java.awt.event.*;
 
 public class register  {
 

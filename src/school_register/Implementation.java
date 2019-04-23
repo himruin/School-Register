@@ -1,10 +1,6 @@
 package school_register;
 
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.sql.*; 
-import java.util.*;
-
 import javax.swing.JOptionPane;  
 
 // Implementing the remote interface 

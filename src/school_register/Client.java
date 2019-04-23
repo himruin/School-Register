@@ -3,12 +3,7 @@ package school_register;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.rmi.registry.LocateRegistry; 
-import java.rmi.registry.Registry; 
-import java.util.*;
-
-import javax.swing.JOptionPane;
-import javax.swing.JPasswordField;
-import javax.swing.JTextField;  
+import java.rmi.registry.Registry;  
 
 public class Client {  
    private Client() {}  
